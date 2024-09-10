@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=yoshiomiyamae&theme=dracula&column=4&margin-w=15&margin-h=15&rank=-C,-B,-?)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/yoshio.miyamae.png?1)](https://tryhackme.com/p/yoshio.miyamae)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/y05h10.m1y4m43.png?1)](https://tryhackme.com/p/yoshio.miyamae)
 
 [![FSGS](https://github-readme-stats-git-master-yoshiomiyamae.vercel.app/api/pin/?username=yoshiomiyamae&repo=fsgs&theme=dracula)](https://github.com/yoshiomiyamae/fsgs)

@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats-git-master-yoshiomiyamae.vercel.app/api/top-langs/?username=yoshiomiyamae&layout=compact&show_icons=true&theme=dracula" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-trmg-yoshiomiyamaes-projects.vercel.app/api/top-langs/?username=yoshiomiyamae&layout=compact&show_icons=true&theme=dracula" />
 <!--   <img alt="github stats" height="150px" src="https://github-readme-stats-git-master-yoshiomiyamae.vercel.app/api?username=yoshiomiyamae&theme=dracula&show_icons=ture" />
 </p> -->
 
@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/y05h10.m1y4m43.png)](https://tryhackme.com/p/y05h10.m1y4m43)
 
-[![FSGS](https://github-readme-stats-git-master-yoshiomiyamae.vercel.app/api/pin/?username=yoshiomiyamae&repo=fsgs&theme=dracula)](https://github.com/yoshiomiyamae/fsgs)
+[![FSGS](https://github-readme-stats-trmg-yoshiomiyamaes-projects.vercel.app/api/pin/?username=yoshiomiyamae&repo=fsgs&theme=dracula)](https://github.com/yoshiomiyamae/fsgs)
